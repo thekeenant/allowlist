@@ -1,0 +1,5 @@
+name: Allowlist
+version: 0.0.1
+authors:
+  - Keenan Thompson
+main: com.keenant.allowlist.AllowlistJavaPlugin
